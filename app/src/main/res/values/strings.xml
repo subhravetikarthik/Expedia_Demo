@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Expedia Demo</string>
+    <string name="guestRatingText"> of 5 - Guest Rating</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="show_hotel_results">Show Hotel Results</string>
+    <string name="view_map">View Map</string>
+    <string name="sort_by">Sort By</string>
+    <string name="star_rating">starRating</string>
+    <string name="latitude">latitude</string>
+    <string name="loyalty_points_earned">loyaltyPointsEarned</string>
+    <string name="description">description</string>
+    <string name="image_url">hotelImageURL</string>
+    <string name="guest_rating">guestRating</string>
+    <string name="longitude">longitude</string>
+    <string name="hotel_name">hotelName</string>
+    <string name="price">price</string>
+    <string name="discount_message">discountMessage</string>
+    <string name="hotels">hotels</string>
+    <string name="utf_8">UTF-8</string>
+    <string name="json_file_name">hotel_search_results.json</string>
+</resources>
